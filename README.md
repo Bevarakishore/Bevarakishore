@@ -1,22 +1,33 @@
-<h1 align="center">Hi, I'm Bevara Kishore</h1>
-<h3 align="center">AIML student</h3>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bevarakishore
+======================================================================================================================================
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bevarakishore&label=Profile%20views&color=0e75b6&style=flat" alt="bevarakishore" /> </p>
+AIML STUDENT
+------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bevarakishore" alt="bevarakishore" /></a> </p>
+Hello! 👋 I am a passionate and enthusiastic B.Tech Computer Science and Engineering student specializing in Artificial Intelligence and Machine Learning (AI & ML). I have a strong interest in software development, artificial intelligence, machine learning, data analytics, and modern web technologies. I enjoy exploring new technologies, solving real-world problems, and transforming innovative ideas into practical applications through programming and continuous learning.
 
-- 📫 How to reach me **bevarakishore2006@gmail.com**
+* 🌍  I'm based in INDIAN
+* ✉️  You can contact me at [bevarakishore2006@gmail.com](mailto:bevarakishore2006@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/@bevarakishore_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bevarakishore_" height="30" width="40" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Socials
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bevarakishore&show_icons=true&locale=en&layout=compact" alt="bevarakishore" /></p>
+<p align="left"> <a href="https://www.github.com/Bevarakishore" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
+<a href="https://www.github.com/Bevarakishore" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Bevarakishore?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+### Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bevarakishore&show_icons=true&locale=en" alt="bevarakishore" /></p>
+<b>My GitHub Stats</b>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bevarakishore&" alt="bevarakishore" /></p>
+<a href="http://www.github.com/Bevarakishore"><img src="https://github-readme-stats.vercel.app/api?username=Bevarakishore&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=0f172a&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="Bevarakishore's GitHub stats" /></a>
+
+<a href="http://www.github.com/Bevarakishore"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bevarakishore&stroke=0f172a&background=1c1917&ring=64748b&fire=64748b&currStreakNum=0f172a&currStreakLabel=64748b&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+
+<a href="https://github.com/Bevarakishore" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevarakishore&langs_count=10&title_color=64748b&text_color=0f172a&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
