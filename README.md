@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<!-- CINEMATIC BLUE-PURPLE HEADER -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:101D46,65:382875,100:087CA7&height=280&section=header&text=BEVARA%20KISHORE&fontSize=48&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=55&descSize=18" alt="Cinematic blue purple developer banner"/>
-
-<!-- ANIMATED INTRODUCTION -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=1000&color=42D9FF&center=true&vCenter=true&width=650&height=65&lines=B.Tech+AIML+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Building+Ideas+with+Code" alt="B.Tech AIML Student animated introduction"/>
 
@@ -32,9 +28,9 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Bevara Kishore**, a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML).
+Hi! I'm **Bevara Kishore**, a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at St. Mary's Group of Institutions, Hyderabad.
 
-I'm interested in programming, web development, databases, and creating practical software projects. I enjoy learning new technologies and turning ideas into working applications.
+I'm interested in programming, web development, databases, and creating practical software projects.
 
 - 🎓 B.Tech AIML Student
 - 💻 Learning C and Python programming
@@ -71,52 +67,78 @@ I'm interested in programming, web development, databases, and creating practica
 
 ## 🚀 Featured Projects
 
-### 🌌 1. Online Examination System — ExamSphere
+<div align="center">
 
-An online examination platform concept designed to provide a modern digital testing experience.
+### 🌌 1. Online Examination System
+
+<a href="https://github.com/Bevarakishore/Online-Examination-System">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:102A56,100:4831A5&height=110&section=header&text=ONLINE%20EXAMINATION%20SYSTEM&fontSize=26&fontColor=FFFFFF" alt="Online Examination System project banner"/>
+</a>
+
+</div>
+
+A web-based examination platform featuring separate admin and student interfaces, examination workflows, and interactive visual effects.
 
 **Key Features**
-- 🔐 Separate admin and student login interfaces
+- 🔐 Admin and student login interfaces
 - 📝 Multiple-choice and programming questions
-- ⏱️ Timed examination interface
+- ⏱️ Timed examinations
 - 📊 Exam results and performance summaries
-- 🎨 Modern user interface with 3D visual effects
+- 🎨 Modern user interface and 3D visual effects
 
 **Technologies:** HTML, CSS, JavaScript, Three.js
 
-<a href="https://github.com/Bevarakishore?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORIES-14213D?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Explore project repositories"/>
+<div align="center">
+
+<a href="https://github.com/Bevarakishore/Online-Examination-System">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-14213D?style=for-the-badge&logo=github&logoColor=42D9FF" alt="View Online Examination System"/>
 </a>
 
-### 💻 2. Web Development Projects
+</div>
 
-A collection of web development experiments and applications focused on responsive layouts, interactive elements, and creative user interfaces.
+### 📊 2. Financial Report
 
-**Focus Areas**
-- 🌐 HTML page structure
-- 🎨 CSS styling and layouts
-- ⚡ Interactive web experiences
-- 📱 Responsive design
-
-**Technologies:** HTML, CSS, JavaScript
-
-<a href="https://github.com/Bevarakishore?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20WEB%20PROJECTS-28205A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View web development projects"/>
+<a href="https://github.com/Bevarakishore/Financial-Report">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:28205A,100:087CA7&height=100&section=header&text=FINANCIAL%20REPORT&fontSize=28&fontColor=FFFFFF" alt="Financial Report project banner"/>
 </a>
 
-### 🐍 3. Programming Practice
+A financial reporting web project designed to present financial information in a structured, interactive interface.
 
-A space for developing programming fundamentals, logical thinking, and problem-solving skills through code.
+**Project Focus**
+- 📈 Financial information presentation
+- 🎨 Modern web interface
+- 📊 Organized report layouts
+- 🌐 Interactive web experience
 
-**Focus Areas**
-- C programming
-- Python fundamentals
-- Algorithms and problem solving
-- Coding practice
+**Technologies:** HTML, CSS, JavaScript, Three.js
+
+<div align="center">
+
+<a href="https://github.com/Bevarakishore/Financial-Report">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-28205A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Financial Report"/>
+</a>
+
+</div>
+
+### 💻 3. Other GitHub Projects
+
+Explore my other repositories for programming practice, web development experiments, and future projects.
+
+<div align="center">
 
 <a href="https://github.com/Bevarakishore?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20CODE-102A43?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Explore code repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-102A43?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Explore all repositories"/>
 </a>
+
+</div>
+
+---
+
+## 🌐 Automatically Updated Projects
+
+<!-- AUTO-REPOS-START -->
+*Your latest public repositories will appear here when the GitHub Actions workflow is configured and run.*
+<!-- AUTO-REPOS-END -->
 
 ---
 
@@ -139,10 +161,18 @@ A space for developing programming fundamentals, logical thinking, and problem-s
 
 ## 🎓 Education
 
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Specialization:** Artificial Intelligence and Machine Learning (AIML)
+<div align="center">
 
-*Add your college name, graduation year, and relevant coursework here.*
+<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Technology-14213D?style=for-the-badge" alt="Bachelor of Technology"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-AIML-28205A?style=for-the-badge" alt="AI and ML specialization"/>
+
+### 🏛️ St. Mary's Group of Institutions
+
+**Location:** Hyderabad, Telangana, India
+
+**Program:** B.Tech — Artificial Intelligence and Machine Learning
+
+</div>
 
 ---
 
@@ -154,7 +184,7 @@ A space for developing programming fundamentals, logical thinking, and problem-s
 - 🛠️ Practicing version control using Git and GitHub.
 - 🎯 Working toward becoming a skilled software developer.
 
-<sub>Add verified certifications, awards, hackathons, and completed milestones as you achieve them.</sub>
+<sub>Certifications, awards, and verified achievements can be added here as you earn them.</sub>
 
 ---
 
