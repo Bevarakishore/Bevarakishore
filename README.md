@@ -1,219 +1,251 @@
- <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101D46,70:382875,100:087CA7&height=230&section=header&text=BEVARA%20KISHORE&fontSize=46&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=BUILDING%20THE%20FUTURE%20WITH%20CODE&descSize=15&descAlignY=58" alt="Bevara Kishore programming profile banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=1000&color=42D9FF&center=true&vCenter=true&width=700&height=55&lines=B.Tech+AIML+Student;Aspiring+Software+Developer;Exploring+AI%2FML+and+Web+Development;Learn.+Build.+Improve.+Repeat." alt="Professional animated introduction" />
-
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20ML-101D46?style=for-the-badge&logo=googlecolab&logoColor=42D9FF" alt="AI and ML focus" />
-  <img src="https://img.shields.io/badge/BUILDING-WEB%20PROJECTS-28205A?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="Web development" />
-  <img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-087CA7?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Always learning" />
-</p>
-
-<p>
-  <a href="https://github.com/Bevarakishore"><img src="https://img.shields.io/badge/GitHub-Bevarakishore-0D1117?style=flat-square&logo=github&logoColor=42D9FF" alt="GitHub profile" /></a>
-  <a href="mailto:bevarakishore2006@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-  <a href="https://github.com/Bevarakishore?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-0D1117?style=flat-square&logo=github&logoColor=805AD5" alt="Explore projects" /></a>
-</p>
-
-</div>
-
----
-
-## `01` — About Me
-
-```text
-Name       : Bevara Kishore
-Education  : B.Tech — Artificial Intelligence & Machine Learning
-Institution: St. Mary's Group of Institutions, Hyderabad
-Interests  : Programming, AI/ML, Web Development
-Goal       : Build useful, creative and reliable software
-```
-
-I'm a B.Tech AIML student passionate about programming, web development, and building practical software projects. I enjoy learning new technologies, improving my problem-solving skills, and turning ideas into working applications.
-
-- Exploring **C and Python** programming.
-- Building responsive websites using **HTML, CSS, and JavaScript**.
-- Learning database concepts with **MySQL**.
-- Managing projects with **Git and GitHub**.
-- Exploring interactive 3D experiences with **Three.js**.
-- Continuously improving my development skills through hands-on projects.
-
----
-
-## `02` — Developer Tech Stack
+<!-- ===================================================== -->
+<!-- BEVARA KISHORE | CINEMATIC GITHUB PROFILE           -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-### Programming
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,30:101D46,65:382875,100:087CA7&height=280&section=header&text=BEVARA%20KISHORE&fontSize=48&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=55&descSize=18" alt="Cinematic blue purple developer banner"/>
 
-<img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2500&pause=1000&color=42D9FF&center=true&vCenter=true&width=650&height=65&lines=B.Tech+AIML+Student;Aspiring+Software+Developer;Web+Development+Enthusiast;Building+Ideas+with+Code" alt="B.Tech AIML Student animated introduction"/>
 
-### Frontend Development
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,threejs&theme=dark" alt="HTML, CSS, JavaScript and Three.js" />
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE%20%26%20ML-14213D?style=for-the-badge&logo=python&logoColor=42D9FF" alt="AI and ML focus"/>
+<img src="https://img.shields.io/badge/INTEREST-WEB%20DEVELOPMENT-28205A?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="Web development"/>
+<img src="https://img.shields.io/badge/BUILDING-REAL%20WORLD%20PROJECTS-102A43?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Building projects"/>
 
-### Database and Developer Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" alt="MySQL, Git, GitHub and VS Code" />
+<a href="https://github.com/Bevarakishore">
+<img src="https://img.shields.io/badge/GitHub-Bevarakishore-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub profile"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Bevarakishore&style=for-the-badge&color=4831A5&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## `03` — Featured Projects
+## 👨‍💻 About Me
+
+Hi! I'm **Bevara Kishore**, a B.Tech student specializing in Artificial Intelligence and Machine Learning (AIML) at St. Mary's Group of Institutions, Hyderabad.
+
+I'm interested in programming, web development, databases, and creating practical software projects.
+
+- 🎓 B.Tech AIML Student
+- 💻 Learning C and Python programming
+- 🌐 Exploring web development with HTML and CSS
+- 🗄️ Working with MySQL and database concepts
+- 🛠️ Using Git, GitHub, and VS Code for development
+- 🚀 Building projects to strengthen my technical skills
+
+---
+
+## ⚡ Technology & Skills
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=c,python&theme=dark" alt="C and Python"/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css&theme=dark" alt="HTML and CSS"/>
+
+### 🗄️ Database Technologies
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL"/>
+
+### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and Visual Studio Code"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🌌 1. Online Examination System
+
+<a href="https://github.com/Bevarakishore/Online-Examination-System">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:102A56,100:4831A5&height=110&section=header&text=ONLINE%20EXAMINATION%20SYSTEM&fontSize=26&fontColor=FFFFFF" alt="Online Examination System project banner"/>
+</a>
+
+</div>
+
+A web-based examination platform featuring separate admin and student interfaces, examination workflows, and interactive visual effects.
+
+**Key Features**
+- 🔐 Admin and student login interfaces
+- 📝 Multiple-choice and programming questions
+- ⏱️ Timed examinations
+- 📊 Exam results and performance summaries
+- 🎨 Modern user interface and 3D visual effects
+
+**Technologies:** HTML, CSS, JavaScript, Three.js
 
 <div align="center">
 
 <a href="https://github.com/Bevarakishore/Online-Examination-System">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:102A56,100:4831A5&height=105&section=header&text=ONLINE%20EXAMINATION%20SYSTEM&fontSize=25&fontColor=FFFFFF" alt="Online Examination System project banner" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-14213D?style=for-the-badge&logo=github&logoColor=42D9FF" alt="View Online Examination System"/>
 </a>
-
-### Online Examination System
-
-**A web-based examination platform for students and administrators.**
 
 </div>
 
-- Separate login interfaces for administrators and students.
-- Online exams featuring multiple-choice and programming questions.
-- Timed examinations and structured question presentation.
-- Results summaries and performance review.
-- Modern interface with interactive 3D visual effects.
+### 📊 2. Financial Report
 
-**Technologies:** HTML · CSS · JavaScript · Three.js
+<a href="https://github.com/Bevarakishore/Financial-Report">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:28205A,100:087CA7&height=100&section=header&text=FINANCIAL%20REPORT&fontSize=28&fontColor=FFFFFF" alt="Financial Report project banner"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/Bevarakishore/Online-Examination-System"><img src="https://img.shields.io/badge/VIEW%20PROJECT-42D9FF?style=for-the-badge&logo=github&logoColor=08111F" alt="View Online Examination System" /></a>
-</p>
+A financial reporting web project designed to present financial information in a structured, interactive interface.
+
+**Project Focus**
+- 📈 Financial information presentation
+- 🎨 Modern web interface
+- 📊 Organized report layouts
+- 🌐 Interactive web experience
+
+**Technologies:** HTML, CSS, JavaScript, Three.js
 
 <div align="center">
 
 <a href="https://github.com/Bevarakishore/Financial-Report">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080D1A,50:28205A,100:087CA7&height=95&section=header&text=FINANCIAL%20REPORT&fontSize=27&fontColor=FFFFFF" alt="Financial Report project banner" />
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-28205A?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Financial Report"/>
 </a>
-
-### Financial Report
-
-**A web-based project for presenting financial information through a structured, interactive interface.**
 
 </div>
 
-- Organized presentation of financial information.
-- Web interface designed for readability and usability.
-- Interactive visual enhancements using Three.js.
-- A project for practicing frontend development and data presentation.
+### 💻 3. Other GitHub Projects
 
-**Technologies:** HTML · CSS · JavaScript · Three.js
-
-<p align="center">
-  <a href="https://github.com/Bevarakishore/Financial-Report"><img src="https://img.shields.io/badge/VIEW%20PROJECT-805AD5?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="View Financial Report" /></a>
-</p>
+Explore my other repositories for programming practice, web development experiments, and future projects.
 
 <div align="center">
 
 <a href="https://github.com/Bevarakishore?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-101D46?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Explore all repositories" />
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-102A43?style=for-the-badge&logo=github&logoColor=42D9FF" alt="Explore all repositories"/>
 </a>
 
 </div>
 
 ---
 
-## `04` — Repository Explorer
-
-Discover my latest public projects below. The list can be updated automatically using GitHub Actions.
+## 🌐 Automatically Updated Projects
 
 <!-- AUTO-REPOS-START -->
-- [Online Examination System](https://github.com/Bevarakishore/Online-Examination-System)
-- [Financial Report](https://github.com/Bevarakishore/Financial-Report)
-- [View all public repositories](https://github.com/Bevarakishore?tab=repositories)
+*Your latest public repositories will appear here when the GitHub Actions workflow is configured and run.*
 <!-- AUTO-REPOS-END -->
 
 ---
 
-## `05` — Learning Roadmap
-
-| Area | Current direction |
-|---|---|
-| Programming | Strengthen C and Python fundamentals |
-| Web development | Improve HTML, CSS and JavaScript |
-| 3D web | Explore interactive scenes with Three.js |
-| Databases | Practice SQL and MySQL |
-| Developer tools | Improve Git and GitHub workflows |
-| AI/ML | Build foundations in artificial intelligence and machine learning |
-| Projects | Create useful, well-documented applications |
-
----
-
-## `06` — Education
+## 🎯 My Developer Roadmap
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DEGREE-B.Tech-101D46?style=for-the-badge&logo=bookstack&logoColor=42D9FF" alt="B.Tech degree" />
-<img src="https://img.shields.io/badge/SPECIALIZATION-AIML-28205A?style=for-the-badge&logo=googlecolab&logoColor=FFFFFF" alt="Artificial Intelligence and Machine Learning" />
+| Area | Learning Goal |
+|:---|:---|
+| 💻 Programming | Strengthen C and Python fundamentals |
+| 🌐 Web Development | Improve HTML and CSS skills |
+| 🗄️ Databases | Learn SQL and database design with MySQL |
+| 🛠️ Development Tools | Improve Git and GitHub workflows |
+| 🤖 AI/ML | Build a strong foundation in AI and machine learning |
+| 🚀 Projects | Create more practical software applications |
 
 </div>
 
-- **Degree:** Bachelor of Technology (B.Tech)
-- **Specialization:** Artificial Intelligence and Machine Learning
-- **Institution:** St. Mary's Group of Institutions
-- **Location:** Hyderabad, Telangana, India
-
 ---
 
-## `07` — GitHub Analytics
+## 🎓 Education
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bevarakishore&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=42D9FF&icon_color=805AD5&text_color=E6EDF3" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevarakishore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=42D9FF&text_color=E6EDF3" alt="Most-used programming languages" />
+<img src="https://img.shields.io/badge/DEGREE-Bachelor%20of%20Technology-14213D?style=for-the-badge" alt="Bachelor of Technology"/>
+<img src="https://img.shields.io/badge/SPECIALIZATION-AIML-28205A?style=for-the-badge" alt="AI and ML specialization"/>
+
+### 🏛️ St. Mary's Group of Institutions
+
+**Location:** Hyderabad, Telangana, India
+
+**Program:** B.Tech — Artificial Intelligence and Machine Learning
+
+</div>
+
+---
+
+## 🏆 Achievements & Goals
+
+- 🚀 Developing practical software and web projects.
+- 💻 Improving programming and problem-solving skills.
+- 🌐 Learning modern web development techniques.
+- 🛠️ Practicing version control using Git and GitHub.
+- 🎯 Working toward becoming a skilled software developer.
+
+<sub>Certifications, awards, and verified achievements can be added here as you earn them.</sub>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Bevarakishore&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=42D9FF&icon_color=805AD5&text_color=E6EDF3" alt="Bevarakishore GitHub statistics"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bevarakishore&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=080D1A&title_color=42D9FF&text_color=E6EDF3" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Bevarakishore&theme=tokyonight&hide_border=true&background=080D1A&ring=42D9FF&fire=805AD5&currStreakLabel=42D9FF" alt="GitHub contribution streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=Bevarakishore&theme=tokyonight&hide_border=true&background=080D1A&ring=42D9FF&fire=805AD5&currStreakLabel=42D9FF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌌 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bevarakishore&bg_color=080D1A&color=42D9FF&line=805AD5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph"/>
+
+</div>
+
+---
+
+## 🤝 Contact Me
+
+<div align="center">
+
+<a href="mailto:bevarakishore2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-14213D?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+</a>
+
+<a href="https://github.com/Bevarakishore">
+<img src="https://img.shields.io/badge/GitHub-Bevarakishore-111827?style=for-the-badge&logo=github&logoColor=42D9FF" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bevarakishore&bg_color=080D1A&color=42D9FF&line=805AD5&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
+**Email:** [bevarakishore2006@gmail.com](mailto:bevarakishore2006@gmail.com)
+
+**Phone:** 7386304560
 
 </div>
 
 ---
 
-## `08` — Goals and Achievements
-
-- Build projects that solve practical problems.
-- Improve programming fundamentals and problem-solving ability.
-- Develop better frontend and interactive web experiences.
-- Learn more about AI/ML and software development.
-- Maintain clean repositories with useful documentation.
-- Grow through consistent learning and project development.
-
-*As I complete projects, courses, and certifications, this section can be updated with verified achievements.*
-
----
-
-## `09` — Connect With Me
+<!-- CINEMATIC FOOTER -->
 
 <div align="center">
 
-<a href="mailto:bevarakishore2006@gmail.com"><img src="https://img.shields.io/badge/Email-bevarakishore2006%40gmail.com-101D46?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Kishore" /></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101D46,70:382875,100:087CA7&height=150&section=footer" alt="Cinematic blue purple footer"/>
 
-<a href="https://github.com/Bevarakishore"><img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-101D46?style=for-the-badge&logo=github&logoColor=42D9FF" alt="GitHub profile" /></a>
+### 💙 Dream. Build. Innovate. Repeat.
 
-<p>I'm always interested in learning, building, and exploring new technologies.</p>
+**Thanks for visiting my GitHub profile!**
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=42D9FF&center=true&vCenter=true&width=550&height=35&lines=Dream.+Build.+Innovate.+Repeat.;Every+commit+is+a+step+forward." alt="Programming motto" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:101D46,70:382875,100:087CA7&height=130&section=footer" alt="Dark blue and purple footer banner" />
-
-<sub>Thanks for visiting my profile. Keep learning and keep building.</sub>
+<sub>Always learning. Always building. Always improving.</sub>
 
 </div>
