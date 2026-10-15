@@ -20,7 +20,7 @@
 
 ---
 
-## `01` — About Me
+## — About Me
 
 ```text
 Name       : Bevara Kishore
@@ -41,7 +41,7 @@ I'm a B.Tech AIML student passionate about programming, web development, and bui
 
 ---
 
-## `02` — Developer Tech Stack
+## — Developer Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@ I'm a B.Tech AIML student passionate about programming, web development, and bui
 
 ---
 
-## `03` — Featured Projects
+## — Featured Projects
 
 <div align="center">
 
@@ -120,7 +120,7 @@ I'm a B.Tech AIML student passionate about programming, web development, and bui
 
 ---
 
-## `04` — Repository Explorer
+## — Repository Explorer
 
 Discover my latest public projects below. The list can be updated automatically using GitHub Actions.
 
@@ -132,7 +132,7 @@ Discover my latest public projects below. The list can be updated automatically 
 
 ---
 
-## `05` — Learning Roadmap
+## — Learning Roadmap
 
 | Area | Current direction |
 |---|---|
@@ -146,7 +146,7 @@ Discover my latest public projects below. The list can be updated automatically 
 
 ---
 
-## `06` — Education
+## — Education
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Discover my latest public projects below. The list can be updated automatically 
 
 ---
 
-## `07` — GitHub Analytics
+## — GitHub Analytics
 
 <div align="center">
 
@@ -181,7 +181,7 @@ Discover my latest public projects below. The list can be updated automatically 
 
 ---
 
-## `08` — Goals and Achievements
+## — Goals and Achievements
 
 - Build projects that solve practical problems.
 - Improve programming fundamentals and problem-solving ability.
@@ -194,7 +194,7 @@ Discover my latest public projects below. The list can be updated automatically 
 
 ---
 
-## `09` — Connect With Me
+## — Connect With Me
 
 <div align="center">
 
