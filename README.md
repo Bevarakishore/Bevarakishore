@@ -44,7 +44,7 @@
 
 <!-- =============== 03. ANIMATED TERMINAL ================= -->
 
-# `01` // SYSTEM INITIALIZATION
+# // SYSTEM INITIALIZATION
 
 <div align="center">
 
@@ -82,7 +82,7 @@ print(developer.introduce())
 
 <!-- =============== 04. ABOUT ME =========================== -->
 
-# `02` // DEVELOPER IDENTITY
+# // DEVELOPER IDENTITY
 
 <img align="right" width="145" src="https://skillicons.dev/icons?i=python,github&theme=dark" />
 
@@ -109,7 +109,7 @@ I enjoy exploring new technologies, improving my problem-solving skills, and con
 
 <!-- =============== 05. TECHNOLOGY MATRIX ================ -->
 
-# `03` // TECHNOLOGY MATRIX
+# // TECHNOLOGY MATRIX
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I enjoy exploring new technologies, improving my problem-solving skills, and con
 
 <!-- =============== 06. AI / ML ZONE ====================== -->
 
-# `04` // ARTIFICIAL INTELLIGENCE LAB
+# // ARTIFICIAL INTELLIGENCE LAB
 
 <div align="center">
 
@@ -180,7 +180,7 @@ My AI/ML learning interests include:
 
 <!-- =============== 07. PROJECT SHOWCASE ================= -->
 
-# `05` // PROJECT ARCHITECTURE
+# // PROJECT ARCHITECTURE
 
 <div align="center">
 
@@ -274,7 +274,7 @@ A web-based financial information presentation project focused on structured con
 
 <!-- =============== 08. GITHUB ANALYTICS ================ -->
 
-# `06` // NEON ANALYTICS DASHBOARD
+# // NEON ANALYTICS DASHBOARD
 
 <div align="center">
 
@@ -302,7 +302,7 @@ A web-based financial information presentation project focused on structured con
 
 <!-- =============== 09. CONTRIBUTION SNAKE ================ -->
 
-# `07` // CONTRIBUTION VISUALIZATION
+# // CONTRIBUTION VISUALIZATION
 
 <div align="center">
 
@@ -316,7 +316,7 @@ A web-based financial information presentation project focused on structured con
 
 <!-- =============== 10. DEVELOPMENT ROADMAP =============== -->
 
-# `08` // DEVELOPMENT ROADMAP
+# // DEVELOPMENT ROADMAP
 
 | Development area | Next milestone |
 |---|---|
@@ -333,7 +333,7 @@ A web-based financial information presentation project focused on structured con
 
 <!-- =============== 11. EDUCATION ========================= -->
 
-# `09` // ACADEMIC PROFILE
+# // ACADEMIC PROFILE
 
 <div align="center">
 
@@ -346,13 +346,13 @@ A web-based financial information presentation project focused on structured con
 - **Degree:** Bachelor of Technology (B.Tech)
 - **Branch:** Computer Science and Engineering — AI & ML
 - **Institution:** St. Mary's Group of Institutions
-- **Location:** Hyderabad, Telangana, India
+- **Location:** Hyderabad, Deshmukhi, India
 
 ---
 
 <!-- =============== 12. ACHIEVEMENT CENTER ================ -->
 
-# `10` // DIGITAL ACHIEVEMENT CENTER
+# // DIGITAL ACHIEVEMENT CENTER
 
 <div align="center">
 
@@ -378,7 +378,7 @@ A web-based financial information presentation project focused on structured con
 
 <!-- =============== 13. CONNECT =========================== -->
 
-# `11` // CONNECT TO MY NETWORK
+# // CONNECT TO MY NETWORK
 
 <div align="center">
 
